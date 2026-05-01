@@ -1,0 +1,6 @@
+hello second.txt
+my name is inunuwan
+i like a ball
+i like running 
+how about you?
+what is your name?
